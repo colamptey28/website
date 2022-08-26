@@ -1,0 +1,33 @@
+body{
+    background-image: url("PAINT.jpg");
+    
+}
+
+
+
+
+
+#div6 {
+    color: mediumaquamarine; 
+    background-color: black;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    margin-top: 20px; 
+    font-family: serif;
+    font-size: 19;    
+     
+    }
+
+
+
+
+
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: mediumaquamarine;
+    padding: 10px;   
+  }
+    

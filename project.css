@@ -1,0 +1,52 @@
+
+
+
+#div4 {
+color: mediumaquamarine; 
+background-color: black;
+padding: 20px;
+margin-bottom: 20px;
+border-radius: 5px;
+margin-top: 20px; 
+font-family: serif;
+font-size: 19;    
+ 
+}
+
+a{ display :block;
+    font-weight: bold;
+    color:mediumaquamarine;
+    width: 200px;
+    text-align: center;
+    padding:4px;
+    text-decoration: none;   
+    font-family: sans-serif;
+    font-style: oblique;
+    font-size: 12;    
+          }    
+
+
+body {
+  background-image: url('PAINT.jpg');
+  background-size: 3000px;
+  background-repeat: no-repeat;    
+      
+      
+}
+  
+
+
+footer{
+  text-align: center;
+  background-color: black;
+  color: mediumaquamarine;
+  padding: 10px;   
+}
+  
+
+  
+
+
+
+
+
